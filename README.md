@@ -1,3 +1,3 @@
 #GifExpertApp
 
-Este es el primer ejemplo de React
+Aplicacion de React usando Javascript, Jest y el API de Gyphy.
