@@ -2,8 +2,6 @@ import { useState } from "react";
 import {AddCategory,GifGrid} from "./components";
 
 
-
-
 const GifExpertApp = () => {
 
     const [categories, setCategories] = useState(['Fire Emblem']);
